@@ -3,9 +3,12 @@
 ## Overview
 These codes are accompanying the manuscript:
 
-"Prefrontal synaptic regulation of homeostatic sleep pressure revealed via synaptic chemogenetics"
+"Prefrontal synaptic regulation of homeostatic sleep pressure revealed through synaptic chemogenetics"
 
-Takeshi Sawada, Yusuke Iino, Kensuke Yoshida, Hitoshi Okazaki, Shinnosuke Nomura, Chika Shimizu, Tomoki Arima, Motoki Juichi, Siqi Zhou, Nobuhiro Kurabayashi, Takeshi Sakurai, Sho Yagishita, Masashi Yanagisawa, Taro Toyoizumi, Haruo Kasai, Shoi Shi
+Takeshi Sawada, Yusuke Iino, Kensuke Yoshida, Hitoshi Okazaki, Shinnosuke Nomura, Chika Shimizu, Tomoki Arima, Motoki Juichi, Siqi Zhou, Nobuhiro Kurabayashi, Takeshi Sakurai, Sho Yagishita, Masashi Yanagisawa, Taro Toyoizumi, Haruo Kasai, Shoi Shi, 
+
+Science, 2024. https://doi.org/10.1126/science.adl3043
+
 
 ## Requirements
 Simulations for the paper above were conducted in the following setup:
